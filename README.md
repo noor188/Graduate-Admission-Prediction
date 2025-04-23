@@ -13,10 +13,8 @@ Built a system to help students in shortlisting universities with their profiles
 + Backend: Python, Flask
 + Tools: pip, IntelliJ, Github
   
-## Parameters used to build the application
+## Data analysis and manipulation
+Built and deployed an interactive data app using Preswald open source framework
+[Data app](https://proj--474e67f0-ndjz2ws6la-ue.a.run.app)
 
-1. GRE
-2. TOEFL
-3. CGPA
-4. Research
-5. University rating
+
