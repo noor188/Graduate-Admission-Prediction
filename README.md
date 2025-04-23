@@ -15,6 +15,7 @@ Built a system to help students in shortlisting universities with their profiles
   
 ## Data analysis and manipulation
 Built and deployed an interactive data app using Preswald open source framework
-[Data app](https://proj--474e67f0-ndjz2ws6la-ue.a.run.app)
+<a href="https://proj--474e67f0-ndjz2ws6la-ue.a.run.app" target="_blank">Data app</a>
+
 
 
