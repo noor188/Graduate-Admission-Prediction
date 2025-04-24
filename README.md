@@ -21,5 +21,8 @@ Built and deployed an interactive data app using Preswald open source framework
   <li><a href="https://github.com/noor188/Interactive-data-app" target="_blank">Code</a></li>
 </ul>
 
+## System overview
+<img src="https://github.com/noor188/Graduate-Admission-Prediction/blob/main/image/system_overview.png" alt="system-overview">
+
 
 
