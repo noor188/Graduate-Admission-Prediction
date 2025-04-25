@@ -24,5 +24,10 @@ Built and deployed an interactive data app using Preswald open source framework
 ## System overview
 <img src="https://github.com/noor188/Graduate-Admission-Prediction/blob/main/image/system_overview.png" alt="system-overview">
 
+## Related work
+<ul>
+  <li><a href="https://www.niche.com/colleges/admissions-calculator/" target="_blank">College Admissions Calculator</a> by Niche and GoIvy</li>  
+</ul>
+
 
 
